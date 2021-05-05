@@ -1,1 +1,2 @@
-PollutInfo adalah sebuah aplikasi/situs tentang info dari keadaan laut indonesia terkini. inti utamanya adalah tentang dampak, sebab, akibat polusi pada air laut di indonesia disertai juga info-info tentang bagaimana mencegahnya. 
+Status : In Development
+Release T.B.A
