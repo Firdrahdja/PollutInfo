@@ -128,7 +128,7 @@ h3 {
 .fabtheme-count {
   background-color: #343330;
   color: #f3f3f3;
-  border-left: 40px solid #4d5359;
+  border-right: 40px solid #4d5359;
   word-wrap: break-word;
 }
 /* END OF COUNT */
@@ -162,6 +162,8 @@ h3 {
   color: #000000;
   border: 0;
   border-radius: 0;
+  width: 100%;
+  height: 360px;
 }
 /* END OF TEAM */
 /* BLOG */
@@ -186,20 +188,20 @@ h3 {
 .fabtheme-contact {
   background-color: #5e503f;
   color: #f3f3f3;
-  border-left: 40px solid #432e36;
+  border-right: 40px solid #432e36;
 }
 /* END OF CONTACT */
 /* NEWSLETTER */
 .fabtheme-newsletter {
   background-color: #343330;
   color: #f3f3f3;
-  border-right: 40px solid #4d5359;
+  border-left: 40px solid #4d5359;
 }
 /* END OF NEWSLETTER */
 /* PARALLAX */
 .fabtheme-parallax-1 {
   height: 100%;
-  background-image: url("../../img/sea.jpg");
+  background-image: url("https://images2.alphacoders.com/689/thumb-1920-689365.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -207,7 +209,7 @@ h3 {
 }
 .fabtheme-parallax-2 {
   height: 100%;
-  background-image: url("../../img/sailor.jpg");
+  background-image: url("https://images6.alphacoders.com/594/thumb-1920-594539.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -215,7 +217,7 @@ h3 {
 }
 .fabtheme-parallax-3 {
   height: 100%;
-  background-image: url("../../img/boat.jpg");
+  background-image: url("https://images6.alphacoders.com/414/thumb-1920-414175.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -223,7 +225,7 @@ h3 {
 }
 .fabtheme-parallax-4 {
   height: 100%;
-  background-image: url("../../img/boat1.jpg");
+  background-image: url("https://images.alphacoders.com/210/thumb-1920-210593.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -342,7 +344,7 @@ h3 {
 /* IMAGES ZOOM IN */
 .fabtheme-zoom img {
   width: 100%;
-  height: auto;
+  height: 426px;
   transition: all 0.5s ease-in-out;
 }
 .fabtheme-zoom:hover img {
